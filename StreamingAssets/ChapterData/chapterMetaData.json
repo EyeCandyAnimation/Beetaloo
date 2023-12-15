@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "chapterId": "01",
+      "mapLevel": "01",
+	  "title":"ch01_title",
+	  "desc":"ch01_desc",
+	  "icon":"image01",
+	  "enabled":"true",
+	  "childReferences":""
+    },
+    {
+      "chapterId": "02",
+      "mapLevel": "02",
+	  "title":"ch02_title",
+	  "desc":"ch02_desc",
+	  "icon":"image02",
+	  "enabled":"true",
+	  "childReferences":"Darwin;Katherine;Mataranka;Larrimah;DalyWaters;Elliot;Jilkminggan"
+    },
+	{
+      "chapterId": "03",
+      "mapLevel": "03",
+	  "title":"ch03_title",
+	  "desc":"ch03_desc",
+	  "icon":"image03",
+	  "enabled":"true",
+	  "childReferences":"Mataranka;Larrimah;DalyWaters;Elliot;Jilkminggan"
+    },
+	{
+      "chapterId": "04",
+      "mapLevel": "04",
+	  "title":"ch04_title",
+	  "desc":"ch04_desc",
+	  "icon":"image04",
+	  "enabled":"false",
+	  "childReferences":""
+    },
+	{
+      "chapterId": "05",
+      "mapLevel": "04",
+	  "title":"ch05_title",
+	  "desc":"ch05_desc",
+	  "icon":"image05",
+	  "enabled":"true",
+	  "childReferences":""
+    }
+  ]
+}

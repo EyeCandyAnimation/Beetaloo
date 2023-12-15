@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "key": "language",
+      "value": "eng"
+    },
+    {
+      "key": "chapterIdsToInclude",
+      "value": "01,02,03,04"
+    }
+  ]
+}

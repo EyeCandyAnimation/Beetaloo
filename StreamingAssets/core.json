@@ -1,0 +1,5 @@
+{
+    "timeOut_Seconds": -1.0,
+    "logging": false,
+    "log_Status_Update_Interval_Seconds": 60.0
+}
