@@ -1,58 +1,58 @@
 {
   "items": [
-	{
-	  "key": "ch01_title",
+    {
+      "key": "ch01_title",
       "value": "Overview"
-	},
-	{
-	  "key": "ch01_desc",
+    },
+    {
+      "key": "ch01_desc",
       "value": "Beetaloo: Australian perspective"
-	},
-	{
-	  "key": "ch02_title",
+    },
+    {
+      "key": "ch02_title",
       "value": "Northern Territory"
-	},
-	{
-	  "key": "ch02_desc",
+    },
+    {
+      "key": "ch02_desc",
       "value": "Significant territorial locations"
-	},
-	{
-	  "key": "ch03_title",
+    },
+    {
+      "key": "ch03_title",
       "value": "Beetaloo Basin"
-	},
-	{
-	  "key": "ch03_desc",
+    },
+    {
+      "key": "ch03_desc",
       "value": "The greater Beetaloo region and the Roper River"
-	},
-	{
-	  "key": "ch04_title",
+    },
+    {
+      "key": "ch04_title",
       "value": "Detailed Analysis"
-	},
-	{
-	  "key": "ch04_desc",
+    },
+    {
+      "key": "ch04_desc",
       "value": "Key core geographical features"
-	},
-	{
-	  "key": "ch05_title",
-      "value": "Core Overview"
-	},
-	{
-	  "key": "ch05_desc",
+    },
+    {
+      "key": "ch05_title",
+      "value": "Cross Section"
+    },
+    {
+      "key": "ch05_desc",
       "value": "Deep core greater geological overview"
-	},
+    },
     {
       "key": "chapter01_01",
       "value": "This experience aims to provide an understanding of what the Beetaloo sub-basin is, where it is located, what types of rock layers it is made up of, the location of aquifers in relation to the shale/methane resource, and how water moves through the CLA and feeds the Roper river."
     },
-	{
+    {
       "key": "mapLoc_Beetaloo",
-      "value": "Beetaloo"
+      "value": "Beetaloo Sub-basin"
     },
     {
       "key": "mapLoc_Darwin",
       "value": "Darwin"
     },
-	{
+    {
       "key": "mapLoc_Katherine",
       "value": "Katherine"
     },
@@ -60,7 +60,7 @@
       "key": "mapLoc_Mataranka",
       "value": "Mataranka"
     },
-	{
+    {
       "key": "mapLoc_Larrimah",
       "value": "Larrimah"
     },
@@ -68,7 +68,7 @@
       "key": "mapLoc_DalyWaters",
       "value": "Daly Waters"
     },
-	{
+    {
       "key": "mapLoc_Elliot",
       "value": "Elliot"
     },
@@ -76,7 +76,7 @@
       "key": "mapLoc_Jilkminggan",
       "value": "Jilkminggan"
     },
-	{
+    {
       "key": "mapInfo_Beetaloo",
       "value": "Beetaloo"
     },
@@ -84,7 +84,7 @@
       "key": "mapInfo_Darwin",
       "value": "The coastal capital of the Northern Territory is expected to be completely unimpacted by the proposed operations in the Beetaloo region."
     },
-	{
+    {
       "key": "mapInfo_Katherine",
       "value": "Information about the impact of Beetaloo mining operations at Katherine goes here."
     },
@@ -92,7 +92,7 @@
       "key": "mapInfo_Mataranka",
       "value": "Information about the impact of Beetaloo mining operations at Mataranka goes here."
     },
-	{
+    {
       "key": "mapInfo_Larrimah",
       "value": "Information about the impact of Beetaloo mining operations at Larrimah goes here."
     },
@@ -100,7 +100,7 @@
       "key": "mapInfo_DalyWaters",
       "value": "Information about the impact of Beetaloo mining operations at Daly Waters goes here."
     },
-	{
+    {
       "key": "mapInfo_Elliot",
       "value": "Information about the impact of Beetaloo mining operations at Elliot goes here."
     },
@@ -108,7 +108,7 @@
       "key": "mapInfo_Jilkminggan",
       "value": "Information about the impact of Beetaloo mining operations at Jilkminggan goes here."
     },
-	{
+    {
       "key": "mapDesc_Beetaloo",
       "value": "Beetaloo short facts"
     },
@@ -116,7 +116,7 @@
       "key": "mapDesc_Darwin",
       "value": "Darwin short facts"
     },
-	{
+    {
       "key": "mapDesc_Katherine",
       "value": "Katherine short facts"
     },
@@ -124,7 +124,7 @@
       "key": "mapDesc_Mataranka",
       "value": "Makaranka short facts"
     },
-	{
+    {
       "key": "mapDesc_Larrimah",
       "value": "Larrimah short facts"
     },
@@ -132,13 +132,45 @@
       "key": "mapDesc_DalyWaters",
       "value": "Daly Waters short facts"
     },
-	{
+    {
       "key": "mapDesc_Elliot",
       "value": "Elliot short facts"
     },
     {
       "key": "mapDesc_Jilkminggan",
       "value": "Jilkminggan short facts"
+    },
+    {
+      "key": "mapLoc_NT",
+      "value": "NT"
+    },
+    {
+      "key": "mapLoc_Queensland",
+      "value": "Queensland"
+    },
+    {
+      "key": "mapLoc_NSW",
+      "value": "NSW"
+    },
+    {
+      "key": "mapLoc_ACT",
+      "value": "ACT"
+    },
+    {
+      "key": "mapLoc_Victoria",
+      "value": "Victoria"
+    },
+    {
+      "key": "mapLoc_SA",
+      "value": "SA"
+    },
+    {
+      "key": "mapLoc_WA",
+      "value": "WA"
+    },
+    {
+      "key": "mapLoc_Tasmania",
+      "value": "Tasmania"
     }
   ]
 }
