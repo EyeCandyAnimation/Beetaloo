@@ -25,7 +25,7 @@
 	  "desc":"ch03_desc",
 	  "icon":"image03",
 	  "enabled":"true",
-	  "childReferences":"Mataranka;Larrimah;DalyWaters;Elliot;Jilkminggan"
+	  "childReferences":"Beetaloo;BeetalooGeology;BeetalooSub-Basin;Cultural"
     },
 	{
       "chapterId": "04",
@@ -43,7 +43,7 @@
 	  "desc":"ch05_desc",
 	  "icon":"image05",
 	  "enabled":"true",
-	  "childReferences":"Beetaloo;BeetalooGeology;BeetalooSub-Basin;LowerVelkerriFormation;VelkerriFormation;MiddleVelkerriFormation;BessieCreekSandstoneFormation;MoroakSandstone;KyallaFormation;BukalaraFormation;ChambersRiverFormation;CambrianFormation;CretaceousFormation"
+	  "childReferences":"LowerVelkerriFormation;VelkerriFormation;MiddleVelkerriFormation;BessieCreekSandstoneFormation;MoroakSandstone;KyallaFormation;BukalaraFormation;ChambersRiverFormation;CambrianFormation;CretaceousFormation"
     }
   ]
 }
