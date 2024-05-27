@@ -18,7 +18,7 @@
     },
     {
       "key": "ch03_title",
-      "value": "Beetaloo Basin"
+      "value": "McArthur Basin"
     },
     {
       "key": "ch03_desc",
@@ -34,7 +34,7 @@
     },
     {
       "key": "ch05_title",
-      "value": "Cross Section"
+      "value": "Geology"
     },
     {
       "key": "ch05_desc",
@@ -343,6 +343,30 @@
 	{
 		"key": "mapInfo_CretaceousFormation",
 		"value": "Fine-grained mottled sandstone."
+	},
+	{
+		"key": "mapLoc_LowerRoper",
+		"value": "Lower Roper"
+	},
+	{
+		"key": "mapInfo_LowerRoper",
+		"value": "- Lower Roper (Bessie Creek) facts. -"
+	},
+	{
+		"key": "mapLoc_Neoproterozoic",
+		"value": "Neoproterozoic"
+	},
+	{
+		"key": "mapInfo_Neoproterozoic",
+		"value": "- Neoproterozoic facts. -"
+	},
+	{
+		"key": "mapLoc_KalkarindjiSuiteVolcanics",
+		"value": "Kalkarindji Suite Volcanics"
+	},
+	{
+		"key": "mapInfo_KalkarindjiSuiteVolcanics",
+		"value": "- Kalkarindji Suite Volcanics facts. -"
 	}
   ]
 }

@@ -16,7 +16,7 @@
 	  "desc":"ch02_desc",
 	  "icon":"image02",
 	  "enabled":"true",
-	  "childReferences":"Darwin;Katherine;Mataranka;Larrimah;DalyWaters;Elliot;Jilkminggan;StuartHighway;CarpentariaHighway;RailLine;LakeWoods;MatarankaThermalPools;RoperRiver"
+	  "childReferences":"Darwin;Katherine;Mataranka;Larrimah;DalyWaters;Elliot;Jilkminggan;LakeWoods;MatarankaThermalPools"
     },
 	{
       "chapterId": "03",
@@ -34,7 +34,7 @@
 	  "desc":"ch04_desc",
 	  "icon":"image04",
 	  "enabled":"false",
-	  "childReferences":""
+	  "childReferences":"LowerVelkerriFormation;VelkerriFormation;MiddleVelkerriFormation;BessieCreekSandstoneFormation;MoroakSandstone;KyallaFormation;BukalaraFormation;ChambersRiverFormation;CambrianFormation;CretaceousFormation"
     },
 	{
       "chapterId": "05",
@@ -43,7 +43,7 @@
 	  "desc":"ch05_desc",
 	  "icon":"image05",
 	  "enabled":"true",
-	  "childReferences":"LowerVelkerriFormation;VelkerriFormation;MiddleVelkerriFormation;BessieCreekSandstoneFormation;MoroakSandstone;KyallaFormation;BukalaraFormation;ChambersRiverFormation;CambrianFormation;CretaceousFormation"
+	  "childReferences":"Neoproterozoic;KyallaFormation;MoroakSandstone;VelkerriFormation;LowerRoper"
     }
   ]
 }
