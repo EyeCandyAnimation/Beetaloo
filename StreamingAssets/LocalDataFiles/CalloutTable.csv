@@ -1,0 +1,37 @@
+,,,,,
+Key,Chapter,MenuIndex,Context,ImagePath,Text
+NT,1: Overview,-1,NT,[none],[EMPTY]
+ACT,1: Overview,-1,ACT,[none],[EMPTY]
+Queensland,1: Overview,-1,Queensland,[none],[EMPTY]
+NSW,1: Overview,-1,NSW,[none],[EMPTY]
+WA,1: Overview,-1,WA,[none],[EMPTY]
+SA,1: Overview,-1,SA,[none],[EMPTY]
+Victoria,1: Overview,-1,Victoria,[none],[EMPTY]
+Tasmania,1: Overview,-1,Tasmania,[none],[EMPTY]
+TasmanSea,1: Overview,-1,Tasman Sea,[none],[EMPTY]
+IndianOcean,1: Overview,-1,Indian Ocean,[none],[EMPTY]
+GreatAustralianBite,1: Overview,-1,Great Australian Bite,[none],[EMPTY]
+TimorSea,1: Overview,-1,Timor Sea,[none],[EMPTY]
+CoralSea,1: Overview,-1,Coral Sea,[none],[EMPTY]
+Darwin,2: The Region,1,Darwin,[none],The coastal capital of the Northern Territory is expected to be completely unimpacted by the proposed operations in the Beetaloo region.
+Katherine,2: The Region,2,Katherine,[none],"On the Katherine River, 320 kilometres (200 mi) southeast of Darwin. The fourth largest settlement in the Territory, known as the place where \""The outback meets the tropics\"". Katherine had an urban population of approximately 6,300 at the 2016 Census."
+Mataranka,2: The Region,3,Mataranka,[none],A township in the Northern Territory 107km south of Katherine. 2016 census had a population of 350. \nMataranka Thermal Pools are crystal clear pools that are fed by springs. The pools usually are at a lush 30 degrees but can get over 40 degrees. Pumps out 30.5 megalitres of water each day.
+Larrimah,2: The Region,4,Larrimah,[none],"431 Kilometres southeast of Darwin on the Stuart Highway, with a population of 27 in 2021."
+DalyWaters,2: The Region,5,Daly Waters,[none],620km south of Darwin at the intersection of the Carpentaria highway and the Stuart highway. 2021 showed a population of 55 people.
+Elliot,2: The Region,6,Elliot,[none],The halfway between Darwin and Alice Springs on the Stuart highway. 250 north or Tennant creek. Population 339 in 2016.
+Jilkminggan,2: The Region,7,Jilkminggan,[none],Closed indigenous community in the NT 146 km south-east of Katherine. 2021 census has 263 residents.
+LakeWoods,2: The Region,8,Lake Woods,[none],Freshwater and is 7km from Elliot. Large ephemeral wetland on the western edge of the Barkly Tableland. 350sq kms. At times can host over 10000 waterbirds.
+RoperRiver,2: The Region,9,Roper River,[none],"The Roper River is a large perennial river located in the Katherine region of the Northern Territory of Australia. the Roper River rises east of Mataranka in the Elsey National Park and flows generally east for over 1,000 kilometres (620 mi) to meet the sea in Limmen Bight on the Gulf of Carpentaria. The river descends 126 metres (413 ft) over its 1,010-kilometre (630 mi) course and has a catchment area of 81,794 square kilometres (31,581 sq mi)"
+BeetalooGeology,3: Geology,1,Geological History,[none],The Beetaloo sub-basin is part of the larger MacArthur Basin. The Beetaloo Sub-basin is of interest because of its potential shale gas resources.
+MacArthurBasin,3: Geology,2,MacArthur Basin,[none],The MacArthur Basin is an extensive sedimentary basin that covers much of the northern part of the Northern Territory. The sedimentary layers in the MacArthur Basin were deposited between 00 million years ago. These geological layers are formed from sediments that were deposited in ancient seas and rivers. This was a time when life on the planet was very different to what we see today.
+BeetalooSub-Basin,3: Geology,3,Beetaloo Sub-basin,[none],"The Beetaloo Sub-basin is a structural component of the greater McArthur Basin in the NT and contains a succession of Mesoproterozoic Roper Group sediments more than 5000 m thick that were deposited over 1000 million years ago. The Beetaloo Sub-basin represents a broad depression bounded by several prominent structural highs, and it is divided into eastern and western elements by the Daly Waters High. Overlying sedimentary basins include the Georgina, Wiso and Daly basins and the Mesozoic Carpentaria Basin."
+LowerRoper,4: Deep Dive,5,Lower Roper,[none],[EMPTY]
+VelkerriFormation,4: Deep Dive,4,Velkerri Formation,[none],[EMPTY]
+MoroakSandstone,4: Deep Dive,3,Moroak Sandstone,[none],"Maximum thickness of 498 m was intersected in Kalala and is is exposed across the Urapunga Fault Zone and in areas to the east of the Beetaloo Sub-basin is a model-derived surface that relies on well intersections and the geometry of neighbouring tops of the Velkerri and Kyalla formations; therefore, interpretation of the top Moroak Sandstone top depths and formation thicknesses away from wells is less certain. modelled at depths of between 800 and 1800 m."
+KyallaFormation,4: Deep Dive,2,Kyalla Formation,[none],The Kyalla Formation is poorly exposed in the Urapunga region to the north of the Beetaloo Sub-basin. It is intersected by the majority of wells in the Beetaloo GBA region and it has a maximum thickness of 786 m. Includes interbedded siltstone and claystone.
+Neoproterozoic,4: Deep Dive,1,Neoproterozoic,[none],[EMPTY]
+KalkarindjiSuiteVolcanics,4: Deep Dive,6,Kalkarindji Suite Volcanics,[none],[EMPTY]
+CambrianFormation,4: Deep Dive,7,Cambrian Formation,[none],"This deposit is believed to have been formed via the influx of an oxidised metal-bearing fluid into a pre-existing, zoned hydrocarbon reservoir, leading to the deposition of base metals by thermochemical sulfate reduction. Top springs limestone and Antrim plateau volcanics"
+CretaceousFormation,4: Deep Dive,8,Cretaceous Formation,[none],Fine-grained mottled sandstone.
+CrossSection_X2,4: Deep Dive,9,Cross Section X2,[none],[EMPTY]
+CrossSection_X4,4: Deep Dive,10,Cross Section X4,[none],[EMPTY]
