@@ -1,7 +1,7 @@
 ,
 Key,Value
 ch01_title,OVERVIEW
-ch02_title,THE REGION
+ch02_title,THE REGION NT
 ch03_title,GEOLOGY
 ch04_title,DEEP DIVE
 LocationInformation,[EMPTY]
@@ -9,3 +9,5 @@ CulturalInfo,"Rich in indigenous history. Aboriginal Land Trusts in or near the 
 EnvironmentalInformation,[EMPTY]
 StuartHighway,Stuart Highway
 CarpentariaHighway,Carpentaria Highway
+BeetalooWelcome,Welcome to the Beetaloo Sub-Basin
+BeetalooInstructions,"This tool is intended to provide an understanding of the impact of proposed mining operations upon the Beetaloo Sub-Basin within the McArthur Basin.[newline][newline]An Overview helps locate the Beetaloo region within Australia's Nothern Territory.[newline][newline]The Region level provides insights into the population centres and major infrastructure within the Beetaloo Sub-Basin region.[newline][newline]The Geology of the region is identified and examined from a historical perspective.[newline][newline]FInally, a Deep Dive is provided into the individual layers that comprise the Beetaloo Sub-Basin. "
