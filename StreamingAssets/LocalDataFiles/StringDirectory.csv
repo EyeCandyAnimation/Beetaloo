@@ -1,13 +1,13 @@
 ,
 Key,Value
 ch01_title,OVERVIEW
-ch02_title,THE REGION NT
+ch02_title,THE NT REGION
 ch03_title,GEOLOGY
 ch04_title,DEEP DIVE
 LocationInformation,[EMPTY]
 CulturalInfo,"Rich in indigenous history. Aboriginal Land Trusts in or near the Beetaloo Sub-basin include Wubalawun, Mangarrayi, Murranji, Alawa, Gurungu, Marlinja, Dillinya, Karlantijpa and Mambaliya Rrumburriya Wuyaliya."
-EnvironmentalInformation,[EMPTY]
+EnvironmentalInformation,"The Beetaloo Sub-basin is rich in natural shale and tight gas, and the broader area is important to a range of local plant and animal species."
 StuartHighway,Stuart Highway
 CarpentariaHighway,Carpentaria Highway
-BeetalooWelcome,Welcome to the Beetaloo Sub-Basin
-BeetalooInstructions,"This tool is intended to provide an understanding of the impact of proposed mining operations upon the Beetaloo Sub-Basin within the McArthur Basin.[newline][newline]An Overview helps locate the Beetaloo region within Australia's Nothern Territory.[newline][newline]The Region level provides insights into the population centres and major infrastructure within the Beetaloo Sub-Basin region.[newline][newline]The Geology of the region is identified and examined from a historical perspective.[newline][newline]FInally, a Deep Dive is provided into the individual layers that comprise the Beetaloo Sub-Basin. "
+BeetalooWelcome,Geology of the Beetaloo Sub-basin: A digital model
+BeetalooInstructions,"Ever wondered what lay beneath your feet? [newline][newline]This digital model of the Beetaloo Sub-basin in the Northern Territory will show you the geological layers deep underground – what they are composed of, how big they are and where they sit in relation to other layers, such as limestone and groundwater layers. [newline][newline]Move the model, zoom in and out, click on the animations and read the descriptions to learn more.[newline][newline]The Overview helps locate and broadly describe the Beetaloo region within Australia's Northern Territory.[newline][newline]The Region level provides insights into the main population centres and prominant natural water features within the Beetaloo region.[newline][newline]The Geology of the region is then identified and examined from a historical perspective.[newline][newline]Finally, a Deep Dive is provided into the individual layers that comprise the Beetaloo Sub-basin. "
